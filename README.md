@@ -20,3 +20,5 @@ Local da Documentação:
  https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries
 
 ## Em andamento...
+
+![selicversusacoes.png](../proj1/figure/selicversusacoes.png)
